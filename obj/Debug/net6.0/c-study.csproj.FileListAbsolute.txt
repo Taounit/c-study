@@ -1,0 +1,15 @@
+/home/user/c-study/bin/Debug/net6.0/c-study
+/home/user/c-study/bin/Debug/net6.0/c-study.deps.json
+/home/user/c-study/bin/Debug/net6.0/c-study.runtimeconfig.json
+/home/user/c-study/bin/Debug/net6.0/c-study.dll
+/home/user/c-study/bin/Debug/net6.0/c-study.pdb
+/home/user/c-study/obj/Debug/net6.0/c-study.csproj.AssemblyReference.cache
+/home/user/c-study/obj/Debug/net6.0/c-study.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c-study/obj/Debug/net6.0/c-study.AssemblyInfoInputs.cache
+/home/user/c-study/obj/Debug/net6.0/c-study.AssemblyInfo.cs
+/home/user/c-study/obj/Debug/net6.0/c-study.csproj.CoreCompileInputs.cache
+/home/user/c-study/obj/Debug/net6.0/c-study.dll
+/home/user/c-study/obj/Debug/net6.0/refint/c-study.dll
+/home/user/c-study/obj/Debug/net6.0/c-study.pdb
+/home/user/c-study/obj/Debug/net6.0/c-study.genruntimeconfig.cache
+/home/user/c-study/obj/Debug/net6.0/ref/c-study.dll
